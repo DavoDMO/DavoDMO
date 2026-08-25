@@ -1,10 +1,15 @@
-## Hi there 👋
+## Ey up 🙋🏽‍♂️ Let me introduce myself
+
+I'm Leon, and I've recently graduated from university with a First Degree Bachelors in Computing (Smart Technology). This degree has given me experience and skills with Programming for Computing, Databases and Web, Integrated IoT Systems, and more.
+
+* Using Python and HTML languages for programming.
+* Using Django to build a web application and utilise SQL and PHP for database management
+* Developed an integrated IoT system using a Raspberry Pi with LEDs and ultrasonic distance sensors
+* Utilised Azure App Services with a Django application
+* Integrated APIs into software during development
+
 
 <!--
-**DavoDMO/DavoDMO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
