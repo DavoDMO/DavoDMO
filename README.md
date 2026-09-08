@@ -8,6 +8,9 @@ I'm Leon, and I've recently graduated from university with a First Degree Bachel
 * Utilised Azure App Services with a Django application
 * Integrated APIs into software during development
 
+### 📚 My Projects
+
+Click [here](https://github.com/DavoDMO/Projects-Portfolio/) to see my portfolio where I showcase the projects I've done.
 
 <!--
 - 🔭 I’m currently working on ...
