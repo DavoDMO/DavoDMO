@@ -7,6 +7,7 @@ I'm Leon, and I've recently graduated from university with a First Degree Bachel
 * Developed an integrated IoT system using a Raspberry Pi with LEDs and ultrasonic distance sensors
 * Utilised Azure App Services with a Django application
 * Integrated APIs into software during development
+* Developed an IoT system that uses wireless technologies to communicate and share data in real time with more than 1 device
 
 ### 📚 My Projects
 
